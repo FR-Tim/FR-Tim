@@ -19,7 +19,7 @@ const AboutMe = {
 Projects 📦
 -----------
 
-- #### <a href="https://github.com/FR-Tim/Game"><img align="center" src="https://www.canva.com/design/DAG6wfzG0WE/75bONFXgcQh0zMVz1JAE5A/edit?utm_content=DAG6wfzG0WE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></a> :&nbsp; A little game make on microsoft makecode arcade
+- #### <a href="https://github.com/FR-Tim/Game"><img align="center" src="https://github.com/FR-Tim/Game/blob/master/GAME.png?raw=true"></a> :&nbsp; A little game make on microsoft makecode arcade
 
 
 <br />
