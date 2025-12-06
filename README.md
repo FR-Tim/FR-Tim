@@ -19,7 +19,7 @@ const AboutMe = {
 Projects 📦
 -----------
 
-- #### <a href="https://github.com/FR-Tim/Game"><img align="center" src="https://static.vecteezy.com/system/resources/previews/008/916/531/non_2x/game-controller-icon-illustration-free-vector.jpg"></a> :&nbsp; A little game make on microsoft makecode arcade
+- #### <a href="https://github.com/FR-Tim/Game"><img align="center" src="https://cdn-icons-png.flaticon.com/128/9968/9968275.png"></a> :&nbsp; A little game make on microsoft makecode arcade
 
 
 <br />
